@@ -34,8 +34,8 @@ EDA_and_Feature_Engineering_Project_on_Heart_Failure_Dataset/
 ├── EDA and Feature Engineering Project on Heart Failure Dataset/
 │   ├── EDA and Feature Engineering on Heart Failure Dataset.ipynb
 │   ├── heart_failure_clinical_records_dataset.csv
-│   └── README.md
-│
+│   
+│── Readme.md
 └── Histogram of High Blood Pressure.png
 ```
 
